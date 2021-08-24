@@ -18,6 +18,7 @@ export function NewRoom() {
   const { user } = useAuth();
   const [newRoom, setNewRoom] = useState('');
 
+  console.log(user);
   async function handleCreateRoom(event: FormEvent) {
     event.preventDefault();
 
