@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="Plant Manager" src="cover.svg" />
+  <img   src="cover.svg" />
 </h1>
 
 Tecnologias
