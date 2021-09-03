@@ -2,16 +2,16 @@
   <img   src="cover.svg" />
 </h1>
 
-Tecnologias
+Tecnologias</br>
 
-React
-Firebase
-TypeScript
+React</br>
+Firebase</br>
+TypeScript</br>
 
-Para usar basta baixar a pasta raiz e suas dependencias, depois yarn start para iniciar
+Para usar basta baixar a pasta raiz e suas dependencias, depois yarn start para iniciar</br>
 
-Projeto
+Projeto</br>
 
-o projeto consiste em criar salas
+o projeto consiste em criar salas</br>
 
 Este é um projeto desenvolvido durante a Next Level Week Together 
